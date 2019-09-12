@@ -1,5 +1,4 @@
 # morpheusys.github.io
-this is my website.
 <!DOCTYPE HTML>
 <!--<html><head></head><body></body></html>-->
 <html xmlns="http://www.w3.org/1999/xhtml" class="g_html">
@@ -914,7 +913,7 @@ var _lcid = 2052,
                 
                 
                     <div id="webFooter" class="webFooter">
-                        <div id='footer' class='footer' ><div class='footerTop'><div class='topLeft'></div><div class='topCenter'></div><div class='topRight'></div></div><div class='footerMiddle'><div class='middleLeft'></div><div class='middleCenter' align='center'><div class='footerContent'><div class='footerInfo footerInfoV2 J_footerInfo'>©2019 - 一把手中医推拿 版权所有</div><div class='footerSupport' id='footerSupport'><span class='footerMobile J_supportItem'><a hidefocus='true' href='//pz19480944.m.icoc.vc' target='_blank'>手机版</a></span>       <span class='footerSep J_footerSep'>|</span><span class='footerFaisco J_supportItem'>本站使用<a class='J_supportLink' hidefocus='true' href='http://jz.fkw.com/proFree.html?_ta=2524' onclick='Site.logDog(100065, 0);' target='_blank' ><span class='faisco-icons-logo' id='faisco-icons-logo' style='padding-left:2px;position:relative;padding-right:2px;top:2px;'></span>凡科建站</a><span style='padding-left:8px;' class='J_buildText'>搭建</span></span>       <span class='footerSep J_footerSep'>|</span>           <span id='footerLogin' class='footerLogin J_supportItem'><a name='popupLogin' hidefocus='true' href='https://i.fkw.com?cacct=pz19480944&_fromsite=true' onclick='Fai.closeTip("#footerLogin");Site.logDog(200584,0);'>管理登录</a></span>                    <span class='bgplayerButton' id='bgplayerButton' style='display:none;'></span></div></div></div><div class='middleRight'></div></div><div class='footerBottom'><div class='bottomLeft'></div><div class='bottomCenter'></div><div class='bottomRight'></div></div></div>
+                        <div id='footer' class='footer' ><div class='footerTop'><div class='topLeft'></div><div class='topCenter'></div><div class='topRight'></div></div><div class='footerMiddle'><div class='middleLeft'></div><div class='middleCenter' align='center'><div class='footerContent'><div class='footerInfo footerInfoV2 J_footerInfo'>?2019 - 一把手中医推拿 版权所有</div><div class='footerSupport' id='footerSupport'><span class='footerMobile J_supportItem'><a hidefocus='true' href='//pz19480944.m.icoc.vc' target='_blank'>手机版</a></span>       <span class='footerSep J_footerSep'>|</span><span class='footerFaisco J_supportItem'>本站使用<a class='J_supportLink' hidefocus='true' href='http://jz.fkw.com/proFree.html?_ta=2524' onclick='Site.logDog(100065, 0);' target='_blank' ><span class='faisco-icons-logo' id='faisco-icons-logo' style='padding-left:2px;position:relative;padding-right:2px;top:2px;'></span>凡科建站</a><span style='padding-left:8px;' class='J_buildText'>搭建</span></span>       <span class='footerSep J_footerSep'>|</span>           <span id='footerLogin' class='footerLogin J_supportItem'><a name='popupLogin' hidefocus='true' href='https://i.fkw.com?cacct=pz19480944&_fromsite=true' onclick='Fai.closeTip("#footerLogin");Site.logDog(200584,0);'>管理登录</a></span>                    <span class='bgplayerButton' id='bgplayerButton' style='display:none;'></span></div></div></div><div class='middleRight'></div></div><div class='footerBottom'><div class='bottomLeft'></div><div class='bottomCenter'></div><div class='bottomRight'></div></div></div>
 
                     </div>
                     
@@ -1408,9 +1407,9 @@ _Global._hiddenMobile = false;
 _Global._ipcList = 0;
 _Global._hiddenICP = false;
 _Global._hiddenFooterInfo = false;
-_Global._footerInfoV2 = "©2019 - 一把手中医推拿 版权所有";
+_Global._footerInfoV2 = "?2019 - 一把手中医推拿 版权所有";
 _Global.isFreeVer = true;
-_defaultFooterInfo = "©2019 - 一把手中医推拿 版权所有";
+_defaultFooterInfo = "?2019 - 一把手中医推拿 版权所有";
 
 var _cityJsLink = "//1.ss.faisys.com/js/city2.min.js?v=201907031656";
 var _majorColorData = "#2b2b2b";
